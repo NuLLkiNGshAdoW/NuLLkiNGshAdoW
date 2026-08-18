@@ -75,8 +75,9 @@
 
 ---
 
-### Активность репозиториев
+### Статус
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuLLkiNGshAdoW&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<p>
+  <img src="https://img.shields.io/badge/GitHub-Active-brightgreen?logo=github" alt="GitHub Status">
+  <img src="https://img.shields.io/badge/Repositories-Public-blue" alt="Repos">
 </p>
