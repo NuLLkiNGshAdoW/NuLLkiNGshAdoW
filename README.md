@@ -2,6 +2,16 @@
 
 Специалист по информационной безопасности с практическим опытом в системном администрировании и Fullstack-разработке. Ориентирован на развитие в областях Offensive и Defensive Security, а также на создание устойчивой к угрозам корпоративной инфраструктуры.
 
+### Технологический стек
+
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</p>
+
 ### Профессиональные навыки
 
 * **Информационная безопасность:** Анализ уязвимостей, аудит беспроводных сетей, мониторинг угроз, концепции SOC/SIEM.
