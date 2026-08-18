@@ -75,8 +75,8 @@
 
 ---
 
-### Статистика GitHub
+### Активность репозиториев
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NuLLkiNGshAdoW&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="NuLLkiNGshAdoW's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuLLkiNGshAdoW&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
