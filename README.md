@@ -63,9 +63,26 @@
 
 ---
 
-### Образование
+### Образование и сертификаты
+
 * **Алматинский университет энергетики и связи (АУЭС)**
   Специальность: Информационные системы (6b06306).
+
+<details>
+<summary><b>Нажмите, чтобы развернуть список дипломов и сертификатов</b></summary>
+
+<br>
+
+| Наименование программы / курса | Организация | Документы |
+| :--- | :--- | :--- |
+| **Введение в цифровую схемотехнику** (36 ч)[cite: 5, 6] | ИНТУИТ | [Сертификат](certificates/diplom1.pdf) \| [Удостоверение](certificates/diplom11.pdf)[cite: 5, 6] |
+| **Операционная система Linux** (36 ч)[cite: 3, 4] | ИНТУИТ | [Сертификат](certificates/diplom2.pdf) \| [Удостоверение](certificates/diplom22.pdf)[cite: 3, 4] |
+| **Стандартизация и сертификация ПО** (36 ч)[cite: 1, 2] | ИНТУИТ | [Сертификат](certificates/diplom3.pdf) \| [Удостоверение](certificates/diplom33.pdf)[cite: 1, 2] |
+| **CCNA: Enterprise Networking, Security, and Automation** | Cisco Networking Academy | [Сертификат](certificates/cisco_ccna.jpg) |
+
+</details>
+
+---
 
 ### Контакты
 * **Email:** [ahadhanjam@gmail.com](mailto:ahadhanjam@gmail.com)
